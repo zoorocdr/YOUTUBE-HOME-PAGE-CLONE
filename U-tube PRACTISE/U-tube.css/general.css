@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(240,240,240,0.4);
+  margin:0px;
+  padding-top: 70px;
+  padding-left:90px;
+  padding-right: 12px;
+  font-family:Roboto, Arial, sans-serif;
+}
+p{
+  line-height: 18px;
+}
